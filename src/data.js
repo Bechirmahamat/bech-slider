@@ -7,7 +7,7 @@ export const shortList = [
         quote: "Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.",
     },
 ];
-
+import bechir from "./assets/bechir.jpeg";
 export const list = [
     {
         id: 1,
@@ -40,6 +40,13 @@ export const list = [
 ];
 
 export const longList = [
+    {
+        id: 0,
+        image: bechir,
+        name: "Bechir Mahamat Abakar",
+        title: "Software Ingenieur",
+        quote: "Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.",
+    },
     {
         id: 1,
         image: "https://www.course-api.com/images/people/person-1.jpeg",
